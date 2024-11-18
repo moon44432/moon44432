@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Seunggi Moon (문승기)
+---
+[LinkedIn](https://www.linkedin.com/in/seunggi-moon/) | [CV](https://github.com/moon44432/moon44432/blob/main/moon-cv-eng.pdf)
 <!--
 **moon44432/moon44432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
